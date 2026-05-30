@@ -2,8 +2,8 @@
     "licenses": {
         "USER-KEY-123": {
             "status": "active",
-            "expire": "2026-06-30",
-            "sign": "2e57df9143bdb6e070f437f98937233530368dfdcaa8b275494ddcec821558e4"
+            "expire": "2026-06-02",
+            "sign": "f89a14859e3630bdd9af859c96977ece8bcf5072885dc952705a559d6aafb782"
         }
     }
 }
